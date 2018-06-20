@@ -1,4 +1,4 @@
 # hello-world
-beginning how to use github
+starting off with github
 
 languages i know c,c++ and basics of python
